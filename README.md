@@ -1,15 +1,20 @@
 <div align="center">
 
-# Hi there 👋, I'm Priyanshu Maurya  
+# Hi 👋, I'm Priyanshu Maurya  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-🚀 Full-Stack Developer | MERN Stack Enthusiast | Frontend Engineer  
+### 🚀 Frontend Engineer | MERN Stack Developer | TypeScript Enthusiast  
 
----
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Apps;React+%2B+TypeScript+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech" />
+  </a>
+</p>
 
-### 👀 Profile Visitors  
-<img src="https://komarev.com/ghpvc/?username=techcraft-Ubuntu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor counter"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=techcraft-Ubuntu&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+</p>
 
 </div>
 
@@ -17,61 +22,44 @@
 
 ## 👨‍💻 About Me  
 
-- 🚀 Full-stack developer specializing in the **MERN stack**  
-- 🌱 Passionate about solving complex problems & exploring new technologies  
-- 👯 Open to collaborating on innovative and challenging projects  
-- 📫 Reach me at: **priyanshumaurya1690@gmail.com**  
-- ⚡ Fun fact: Debugging feels like solving a high-stakes puzzle 🧩  
+- 💻 Full-stack developer focused on the **MERN Stack**  
+- ⚡ Strong in **React + TypeScript + Modern UI Development**  
+- 🌱 Exploring **Next.js** and scalable frontend architecture  
+- 🤝 Open to internships, collaborations & exciting projects  
+- 📫 Email: **priyanshumaurya1690@gmail.com**  
 
 ---
 
-## 💼 Internship Experience  
+## 💼 Experience  
 
-### **Frontend Developer Intern — Fuse Market**  
-📍 Remote | 🗓️ **Dec 2025 – Feb 2026**  
+### 🌟 Frontend Developer Intern — Fuse Market  
+📍 Remote | 🗓️ **Dec 2025 – Feb 2026**
 
-- Built responsive and scalable UI components  
-- Improved frontend performance and user experience  
-- Worked on real-world production-level web applications  
+- Developed responsive UI components with **React + TailwindCSS**  
+- Improved website performance and user experience  
+- Worked on real-world production-level applications  
 
-🔗 Company Website: [Fuse Market](https://fusemarket.in/)  
-
----
-
-## 🛠️ Tech Stack & Tools  
-
-### 🚀 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+🔗 Website: [Fuse Market](https://fusemarket.in/)
 
 ---
 
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+## 🛠️ Tech Stack  
 
----
+<div align="center">
 
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### Frontend  
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
 
----
+### Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### 💻 Languages  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
----
+### Tools  
+<img src="https://skillicons.dev/icons?i=git,linux,vscode" />
 
-### 🧰 Tools & DevOps  
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
@@ -79,19 +67,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techcraft-Ubuntu&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=techcraft-Ubuntu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcraft-Ubuntu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph  
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techcraft-Ubuntu&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcraft-Ubuntu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -100,19 +78,15 @@
 ## 🔥 GitHub Streak  
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=techcraft-Ubuntu&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=techcraft-Ubuntu&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake  
+## 📈 Contribution Graph  
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/techcraft-Ubuntu/techcraft-Ubuntu/output/github-contribution-grid-snake-dark.svg" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techcraft-Ubuntu&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
@@ -122,11 +96,11 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/priyanshu-maurya-68442833b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:priyanshumaurya1690@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -135,6 +109,7 @@
 
 <div align="center">
 
-✨ Thanks for visiting my profile! Have a great day 🚀  
+✨ *Thanks for visiting my profile!*  
+🚀 Let’s build something amazing together.
 
 </div>
